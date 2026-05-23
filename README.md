@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rameshray10&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rameshray10)
-
 # Ramesh Sathiya Narayanan
 
 ### Sr. Full Stack .NET Developer · AI Engineer · Azure Certified
@@ -190,6 +188,8 @@ Designed and built a personal project automating COBOL-to-.NET Core migration us
 [![trophy](https://github-profile-trophy.vercel.app/?username=rameshray10&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rameshray10&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rameshray10)
 
 ---
 
