@@ -118,9 +118,9 @@ I'm a **Senior Full Stack .NET Developer** with **12+ years** of hands-on experi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rameshray10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-seven.vercel.app/api?username=rameshray10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshray10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=rameshray10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
