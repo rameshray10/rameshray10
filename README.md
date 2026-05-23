@@ -1,40 +1,36 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
 [![Profile Views](https://komarev.com/ghpvc/?username=rameshray10&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rameshray10)
 
-<!-- SECTION A: ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Ramesh Sathiya Narayanan
 
-# Hi, I'm Ramesh Sathiya Narayanan 👋
+### Sr. Full Stack .NET Developer · AI Engineer · Azure Certified
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Sr.+Full+Stack+.NET+Developer;12%2B+Years+of+Enterprise+Experience;Azure+%7C+AI+%7C+.NET+Core+%7C+Angular;Building+Scalable+%26+Intelligent+Systems)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rameshazuredotnet-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rameshazuredotnet)
+[![GitHub](https://img.shields.io/badge/GitHub-rameshray10-181717?style=flat-square&logo=github)](https://github.com/rameshray10)
+[![Email](https://img.shields.io/badge/Email-rameshsathiyanarayanan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rameshsathiyanarayanan@gmail.com)
+[![Location](https://img.shields.io/badge/Nashville%2C%20TN-Open%20to%20Onsite%20%7C%20Remote%20%7C%20Relocation-28a745?style=flat-square)](https://github.com/rameshray10)
+[![AZ-204](https://img.shields.io/badge/Azure-AZ--204%20Certified-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
+[![AZ-305](https://img.shields.io/badge/Azure-AZ--305%20Certified-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
 </div>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-## 🙋‍♂️ About Me
+## 📋 Professional Summary
 
-I'm a **Senior Full Stack .NET Developer** with **12+ years** of hands-on experience architecting and delivering enterprise-grade solutions across healthcare, finance, and cloud domains. I thrive at the intersection of **clean architecture**, **AI engineering**, and **cloud-native development** — turning complex problems into elegant, scalable systems.
+12 years in Full Stack .NET development, with the last few years pushing into AI engineering — building things that actually ship and run in production. Most of my work has been in healthcare, banking, and analytics, delivering for **HCA Healthcare**, **Baylor Scott & White**, and **World Bank Group** using .NET Core, Angular, and Azure.
 
-📺 I share knowledge through **YouTube**, **Medium**, and **Instagram** — breaking down complex .NET, Azure, and AI concepts into digestible content for developers worldwide.
-
-- 🔭 **Currently building:** Multi-agent LLM systems with Azure OpenAI & RAG pipelines
-- 🌱 **Deep-diving into:** LLMOps, MCP Server architecture & PHI Masking for healthcare AI
-- 💡 **Fun fact:** I can debug a T-SQL execution plan faster than most people can read the query
-- 🎯 **Mission:** Make enterprise .NET & AI development accessible to every developer
-- ⚡ **When not coding:** Creating tech content or mentoring offshore teams across time zones
+- 🤖 Architected a **multi-agent AI chatbot** that cut business request resolution from **1–2 days → under 5 minutes** in a HIPAA-regulated environment (~99% faster)
+- 🔄 Built a **COBOL-to-.NET Core migration platform** using multi-agent AI achieving a **~90% automated pass rate**
+- ☁️ **Azure Certified** — AZ-204 (Developer Associate) and AZ-305 (Infrastructure Solutions)
+- 🏥 Experienced with **FHIR / HL7** compliance, cross-functional team leadership, and Agile delivery across onshore/offshore teams
 
 ---
 
-<!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend & Frameworks
+### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -42,15 +38,8 @@ I'm a **Senior Full Stack .NET Developer** with **12+ years** of hands-on experi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=azurefunctions&logoColor=white)
 
-### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 🖥️ Frontend
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,62 +47,124 @@ I'm a **Senior Full Stack .NET Developer** with **12+ years** of hands-on experi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ☁️ Azure & Cloud
+### Azure & Cloud
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure Event Hub](https://img.shields.io/badge/Azure_Event_Hub-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🤖 AI & LLMOps
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### AI & LLMOps
 ![Azure OpenAI Service](https://img.shields.io/badge/Azure_OpenAI_Service-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![LLMOps](https://img.shields.io/badge/LLMOps-00A896?style=for-the-badge&logo=mlflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Multi-Agent LLM](https://img.shields.io/badge/Multi--Agent_LLM-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP Server](https://img.shields.io/badge/MCP_Server-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_LLM-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps_Guardrails-00A896?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🧪 Testing
+### Testing
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MSTest](https://img.shields.io/badge/MSTest-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Moq](https://img.shields.io/badge/Moq-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-E74C3C?style=for-the-badge&logo=testing-library&logoColor=white)
 
-### 📐 Architecture & Delivery
-![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-27AE60?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Agile Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Architecture & Integrations
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![FHIR HL7](https://img.shields.io/badge/FHIR%2FHL7-E74C3C?style=for-the-badge&logo=redcross&logoColor=white)
-![OData](https://img.shields.io/badge/OData-E44D26?style=for-the-badge&logo=odata&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-27AE60?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Agile Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 Connect & Follow
+## 💼 Professional Experience
 
-<div align="center">
+### Sr. .NET Full Stack Developer — Atos Solutions USA, Nashville, TN
+**May 2024 – Present**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameshray10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rameshazuredotnet)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rameshray10)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rameshray10)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameshray10)
+Owned ASP.NET MVC / .NET Core applications supporting healthcare revenue cycle workflows — multi-stage account routing and claim dispute management. Integrated Meditech, Kafka, and BigQuery with FHIR services via StreamSets, turning batch HL7 data flows into real-time. Profiled APIs end-to-end, rewrote critical T-SQL, and switched to async patterns: **−30% response time, −35% latency**. Built Angular search, filter, and CSV export for self-serve operational reporting. Led sprint ceremonies and mentored junior/mid-level developers through code reviews and pair programming.
 
-</div>
+> **Key Project: AI-Powered Healthcare Chatbot (Internal Automation)**
+> Architected a multi-agent LLM system using Azure OpenAI that replaced a manual ticketing process taking 1–2 days with a conversational chatbot resolving the same requests **in under 5 minutes (~99% faster)**. Built an Orchestration Agent with LLM-driven stored procedure routing, a bidirectional PHI masking/unmasking pipeline for HIPAA compliance, and a Responder Agent converting raw SQL results into plain-English answers. Full LLMOps stack: configurable retry backoff, per-agent rate limiting, graceful degradation, and complete PHI audit trails.
+
+**Stack:** .NET Core 8, Angular 17, SQL Server, Azure App Services, Azure Service Bus, Azure OpenAI, Kafka, BigQuery, StreamSets, FHIR, HL7, Meditech, Azure DevOps
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
+### Lead Full Stack Developer — Eviden (An Atos Business), Chennai, India
+**Aug 2021 – May 2024**
+
+Enhanced Baylor Scott & White Developer Health’s patient-facing portal with improved UX and EPIC EHR integration for clinical workflows and role-based access. Built 10+ production Web APIs and Azure services (Functions, Blob Storage, Event Hub, Service Bus). Bridged a 5-member India team with US stakeholders, keeping releases clean and on schedule.
+
+**Stack:** C#, .NET Core 8, Web APIs, Azure Functions, Blob Storage, Event Hub, EPIC EHR, KQL, SQL Server, Microservices, Agile/Scrum
+
+---
+
+### Technical Lead — HCL Technologies Ltd., Chennai, India
+**Jun 2018 – Aug 2021**
+
+Led cross-functional delivery for **World Bank Group’s iPortal Transformation Program**, improving team throughput by **~40%** through structured mentorship and code reviews. Delivered full-stack solutions across C#, ASP.NET MVC, EF Core, PostgreSQL, MongoDB, Angular, and TypeScript across distributed onshore/offshore teams. Architected complex validation rule engines and role-based access workflows.
+
+**Stack:** C#, .NET Core 2.0, ASP.NET MVC, EF Core, PostgreSQL, MongoDB, Angular, TypeScript, SQL Server, Agile/Scrum
+
+---
+
+### Senior Developer — Pranion Technology Ventures, Chennai, India
+**Feb 2015 – Jun 2018**
+
+Built a global **Market Mix Model platform** in C# / ASP.NET MVC / SQL Server: takes complex non-linear equations tied to brand variables and produces future volume and value forecasts. Analysts run multiple project scenarios, upload model data in any date format, and interact with jQuery DataTables output that responds live to volume changes — making scenario planning intuitive.
+
+**Stack:** C#, ASP.NET MVC, SQL Server 2008, jQuery DataTables, JavaScript
+
+---
+
+### Senior Software Engineer — iNube Software Solutions, Bengaluru, India
+**Oct 2015 – Apr 2016**
+
+Developed a **Partner Portal** for 5 insurance lines (Two-Wheeler, Private Car, Commercial Vehicle, Misc-D, Health) using dynamic XML-driven Global API integration — new, rollover, and renewal workflows in one flow. Built a fault-tolerant policy issuance engine that kept working even when the upstream API didn’t.
+
+**Stack:** C#, .NET, XML Integration, RESTful APIs, SQL Server
+
+---
+
+### Senior Analyst — Impetus Analytics, Chennai, India
+**Sep 2011 – Jan 2015**
+
+Delivered automation and analytics solutions for financial sector clients using stored procedure-driven data workflows and SSRS reporting interfaces.
+
+**Stack:** C#, ASP.NET MVC, SQL Server, T-SQL, Stored Procedures, SSRS
+
+---
+
+## 🚀 Notable Personal Project
+
+### COBOL to .NET Core AI Migration Platform
+
+Designed and built a personal project automating COBOL-to-.NET Core migration using a **multi-agent AI architecture** with RAG and MCP Server for tool calling.
+
+- **Orchestration Agent** accepts COBOL input, routes through a Writer Agent (technical docs), then a Developer Agent backed by sub-agents that decompose legacy code into C# .NET API implementations
+- **Critic Agent** evaluates generated code quality and sends failing units back for rewrite — achieving **~90% automated pass rate** through self-correcting feedback loops before human review
+- Applied LLMOps best practices end-to-end: eval harnesses, retry policies, rate limiting, and circuit-breaker fault tolerance across all agent stages
+
+**Stack:** C#, .NET Core, Python, FastAPI, Multi-agent LLM, RAG, MCP Server, Azure OpenAI, LLMOps, Eval Harnesses
+
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-cobol--migration-181717?style=flat-square&logo=github)](https://github.com/OneGBBox/cobol-migration)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -132,7 +183,6 @@ I'm a **Senior Full Stack .NET Developer** with **12+ years** of hands-on experi
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -143,29 +193,29 @@ I'm a **Senior Full Stack .NET Developer** with **12+ years** of hands-on experi
 
 ---
 
-<!-- SECTION H: FOOTER -->
+## 📜 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Microsoft Certified: Azure Developer Associate (AZ-204) | Microsoft | Feb 2022 |
+| Microsoft Certified: Azure Infrastructure Solutions (AZ-305) | Microsoft | May 2023 |
+| Linear Algebra for Machine Learning and Data Science | Coursera | Feb 2025 |
+| Python for Data Science | IIT Madras | Oct 2020 |
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**Open to collaborations, consulting, and exciting enterprise projects!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rameshazuredotnet)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameshray10)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshsathiyanarayanan@gmail.com)
 
-| Platform | Link |
-|---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/rameshazuredotnet](https://linkedin.com/in/rameshazuredotnet) |
-| 📺 **YouTube** | [youtube.com/@rameshray10](https://www.youtube.com/@rameshray10) |
-| ✍️ **Medium** | [medium.com/@rameshray10](https://medium.com/@rameshray10) |
-| 📸 **Instagram** | [instagram.com/rameshray10](https://www.instagram.com/rameshray10) |
-| 🐙 **GitHub** | [github.com/rameshray10](https://github.com/rameshray10) |
-
-<br/>
+**Open to:** Onsite · Remote · Hybrid · Relocation &nbsp;|&nbsp; **Status:** H1B Transfer Ready
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-*"Great software is built at the intersection of clean architecture, deep domain knowledge, and a relentless drive to deliver value."*
-
-**— Ramesh Sathiya Narayanan | Sr. Full Stack .NET Developer | 12+ Years Building Enterprise Solutions**
+*"Ship things that work. Make them maintainable. Make them fast. In that order."*
 
 </div>
