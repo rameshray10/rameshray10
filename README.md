@@ -2,14 +2,14 @@
 
 # Ramesh Sathiya Narayanan
 
-### Sr. Full Stack .NET Developer · AI Engineer · Azure Certified **Status:** H1B Transfer Ready
+### Sr. Full Stack .NET Developer · AI Engineer · Azure Certified · H1B Transfer Ready
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rameshazuredotnet-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rameshazuredotnet)
 [![GitHub](https://img.shields.io/badge/GitHub-rameshray10-181717?style=flat-square&logo=github)](https://github.com/rameshray10)
 [![Email](https://img.shields.io/badge/Email-rameshsathiyanarayanan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rameshsathiyanarayanan@gmail.com)
-[![Location](https://img.shields.io/badge/Nashville%2C%20TN-Open%20to%20Onsite%20%7C%20Remote%20%7C%20Relocation-28a745?style=flat-square)](https://github.com/rameshray10)
-[![AZ-204](https://img.shields.io/badge/Azure-AZ--204%20Certified-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
-[![AZ-305](https://img.shields.io/badge/Azure-AZ--305%20Certified-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+[![Location](https://img.shields.io/badge/Nashville%2C%20TN-Open%20to%20Onsite%20%7C%20Remote%20%7C%20Relocation-28a745?style=flat-square)](https://maps.app.goo.gl/EMCR1SrEQuDFkV5i9)
+[![AZ-204](https://img.shields.io/badge/Azure-AZ--204%20Certified-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/Ramesh-8625/DFA152FECD3B019B?sharingId=B095098F5146C842)
+[![AZ-305](https://img.shields.io/badge/Azure-AZ--305%20Certified-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/Ramesh-8625/DFA152FECD3B019B?sharingId=B095098F5146C842)
 
 </div>
 
